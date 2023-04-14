@@ -6,7 +6,7 @@ import Home from "./pages/home";
 
 const routeList:RouteObject[] = [
     {
-        path:'/home',
+        path:'/',
         element: <Home />
     },
     {

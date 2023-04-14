@@ -30,7 +30,7 @@ function App() {
     return (
       <nav>
         <NavLink
-          to="/home"
+          to="/"
           className={({ isActive }) => (isActive ? "active" : "inactive")}
         >
           介绍
