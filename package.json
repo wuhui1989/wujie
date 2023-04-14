@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-wujie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"pnpm --filter main-react --filter app1 --filter app2 dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
