@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"pnpm --filter main-react --filter app1 --filter app2 dev"
+    "dev":"pnpm --filter ./packages/* dev"
   },
   "keywords": ["wujie","monorepo","wujie-React"],
   "author": "",
