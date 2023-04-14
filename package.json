@@ -6,7 +6,7 @@
   "scripts": {
     "dev":"pnpm --filter main-react --filter app1 --filter app2 dev"
   },
-  "keywords": [],
+  "keywords": ["wujie","monorepo","wujie-React"],
   "author": "",
   "license": "ISC"
 }
